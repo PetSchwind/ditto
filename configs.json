@@ -896,27 +896,27 @@
   "testset": "data/wdc/cameras/title_description_brand_specTableContent/test.txt"
 },
 {
-  "name": "bikes",
+  "name": "experiment/bikes",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "",
-  "validset": "",
-  "testset": ""
+  "trainset": "data/experiment/bikes/bike_train.txt",
+  "validset": "data/experiment/bikes/bike_validate.txt",
+  "testset": "data/experiment/bikes/bike_test.txt"
 }
 ,
 {
-  "name": "cosmetics",
+  "name": "experiment/cosmetics",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "",
-  "validset": "",
-  "testset": ""
+  "trainset": "data/experiment/tv/tv_train.txt",
+  "validset": "data/experiment/tv/tv_validate.txt",
+  "testset": "data/experiment/cosmetics/cosmetics_test.txt"
 },
 {
   "name": "tv",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "",
-  "validset": "",
-  "testset": ""
+  "trainset": "ditto/data/experiment/tv/tv_train.txt",
+  "validset": "ditto/data/experiment/tv/tv_validate.txt",
+  "testset": "ditto/data/experiment/tv/tv_test.txt"
 }]
