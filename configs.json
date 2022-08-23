@@ -908,12 +908,12 @@
   "name": "experiment/cosmetics",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "data/experiment/tv/tv_train.txt",
-  "validset": "data/experiment/tv/tv_validate.txt",
+  "trainset": "data/experiment/cosmetics/cosmetics_train.txt",
+  "validset": "data/experiment/cosmetics/cosmetics_validate.txt",
   "testset": "data/experiment/cosmetics/cosmetics_test.txt"
 },
 {
-  "name": "tv",
+  "name": "experiment/tv",
   "task_type": "classification",
   "vocab": ["0", "1"],
   "trainset": "ditto/data/experiment/tv/tv_train.txt",
