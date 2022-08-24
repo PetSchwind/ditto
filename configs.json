@@ -916,7 +916,7 @@
   "name": "experiment/tv",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "ditto/data/experiment/tv/tv_train.txt",
-  "validset": "ditto/data/experiment/tv/tv_validate.txt",
-  "testset": "ditto/data/experiment/tv/tv_test.txt"
+  "trainset": "data/experiment/tv/tv_train.txt",
+  "validset": "data/experiment/tv/tv_validate.txt",
+  "testset": "data/experiment/tv/tv_test.txt"
 }]
