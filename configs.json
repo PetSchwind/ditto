@@ -919,4 +919,36 @@
   "trainset": "data/experiment/tv/tv_train.txt",
   "validset": "data/experiment/tv/tv_validate.txt",
   "testset": "data/experiment/tv/tv_test.txt"
+},{
+  "name": "experiment/google_aws_no_num",
+  "task_type": "classification",
+  "vocab": ["0", "1"],
+  "trainset": "data/experiment/google_aws/gglaws_no_num_train.txt",
+  "validset": "data/experiment/google_aws/gglaws_no_num_validate.txt",
+  "testset": "data/experiment/google_aws/gglaws_no_num_test.txt"
+},
+{
+  "name": "experiment/bikes_no_num",
+  "task_type": "classification",
+  "vocab": ["0", "1"],
+  "trainset": "data/experiment/bikes/bike_no_num_train.txt",
+  "validset": "data/experiment/bikes/bike_no_num_validate.txt",
+  "testset": "data/experiment/bikes/bike_no_num_test.txt"
+}
+,
+{
+  "name": "experiment/cosmetics_no_num",
+  "task_type": "classification",
+  "vocab": ["0", "1"],
+  "trainset": "data/experiment/cosmetics/cosmetics_no_num_train.txt",
+  "validset": "data/experiment/cosmetics/cosmetics_no_num_validate.txt",
+  "testset": "data/experiment/cosmetics/cosmetics_no_num_test.txt"
+},
+{
+  "name": "experiment/wallmart_aws_no_num",
+  "task_type": "classification",
+  "vocab": ["0", "1"],
+  "trainset": "data/experiment/wallmart_aws/walaws_no_num_train.txt",
+  "validset": "data/experiment/wallmart_aws/walaws_no_num_validate.txt",
+  "testset": "data/experiment/wallmart_aws/walaws_no_num_test.txt"
 }]
